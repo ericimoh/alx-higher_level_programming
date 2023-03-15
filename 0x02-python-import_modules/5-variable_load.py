@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-import string
-print(string.ascii_uppercase)
-
+a = 98
+"""Simple variable
+"""
